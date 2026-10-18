@@ -1,0 +1,2 @@
+package pz.shim;
+public class Dimension { public int width, height; public Dimension() { } public Dimension(int w, int h) { width = w; height = h; } }
